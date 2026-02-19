@@ -8,5 +8,7 @@ O segundo trecho define engenharia de software como “programação ao longo do
 
 ## Atividade 3
 Velocidade vs Qualidade – Entregar rápido pode gerar código difícil de manter depois.
+
 Simplicidade vs Escalabilidade – Um sistema simples é mais fácil no início, mas pode não suportar crescimento futuro.
+
 Custo vs Segurança – Reduzir custos pode comprometer a proteção do sistema.
