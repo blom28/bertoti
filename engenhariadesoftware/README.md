@@ -32,7 +32,8 @@ int blech (int g)
    }
 
 Quantas entradas mostram o erro?
-  4 entradas
+
+4 entradas
 
 Quais são?
 
