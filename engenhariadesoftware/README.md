@@ -32,10 +32,8 @@ int blech (int g)
    
    }
 ```
-Quantas entradas mostram o erro?
+**1.** Quantas entradas mostram o erro?
+R: 4 entradas
 
-4 entradas
-
-Quais são?
-
-29.999, 30.000, -29.0000, -30.000
+**2.** Quais são?
+R: 29.999, 30.000, -29.0000, -30.000
